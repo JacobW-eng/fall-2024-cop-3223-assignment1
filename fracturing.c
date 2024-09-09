@@ -1,3 +1,8 @@
+// Jacob Weinthal
+//NID: ja076816
+
+
+
 #include <stdio.h>
 #include <math.h>
 
